@@ -1,0 +1,45 @@
+Year,Name,Movie,Age
+1970,Glenda Jackson,Women in Love,34
+1971,Jane Fonda,Klute,34
+1972,Liza Minnelli,Cabaret,27
+1973,Glenda Jackson,A Touch of Class,37
+1974,Ellen Burstyn,Alice Doesn't Live Here Anymore,42
+1975,Louise Fletcher,One Flew over the Cuckoo's Nest,41
+1976,Faye Dunaway,Network,36
+1977,Diane Keaton,Annie Hall,32
+1978,Jane Fonda,Coming Home,41
+1979,Sally Field,Norma Rae,33
+1980,Sissy Spacek,Coal Miner's Daughter,31
+1981,Katharine Hepburn,On Golden Pond,74
+1982,Meryl Streep,Sophie's Choice,33
+1983,Shirley MacLaine,Terms of Endearment,49
+1984,Sally Field,Places in the Heart,38
+1985,Geraldine Page,A Trip to the Bountiful,61
+1986,Marlee Matlin,Children of a Lesser God,21
+1987,Cher,Moonstruck,41
+1988,Jodie Foster,The Accused,26
+1989,Jessica Tandy,Driving Miss Daisy,80
+1990,Kathy Bates,Misery,42
+1991,Jodie Foster,The Silence of the Lambs,29
+1992,Emma Thompson,Howards End,33
+1993,Holly Hunter,The Piano,36
+1994,Jessica Lange,Blue Sky,45
+1995,Susan Sarandon,Dead Man Walking,49
+1996,Frances McDormand,Fargo,39
+1997,Helen Hunt,As Good As It Gets,34
+1998,Gwyneth Paltrow,Shakespeare in Love,26
+1999,Hilary Swank,Boys Don't Cry,25
+2000,Julia Roberts,Erin Brockovich,33
+2001,Halle Berry,Monster's Ball,35
+2002,Nicole Kidman,The Hours,35
+2003,Charlize Theron,Monster,28
+2004,Hilary Swank,Million Dollar Baby,30
+2005,Reese Witherspoon,Walk the Line,29
+2006,Helen Mirren,The Queen,61
+2007,Marion Cotillard,La Vie en Rose,32
+2008,Kate Winslet,The Reader,33
+2009,Sandra Bullock,The Blind Side,45
+2010,Natalie Portman,Black Swan,29
+2011,Meryl Streep,The Iron Lady,62
+2012,Jennifer Lawrence,Silver Linings Playbook,22
+2013,Cate Blanchett,Blue Jasmine,44
