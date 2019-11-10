@@ -34,7 +34,7 @@ but also to animals, objects, and so on. For example, we might be interested in
 
 Population, then, is the entire group that is the target of our interest:
 
-![image](../img/big_picture1.png)
+<img src="/img/big_picture1.png" />
 
 In most cases, the population is so large that, as much as we want to, there is
 absolutely no way we can study all of it (imagine trying to get the opinions of
@@ -55,7 +55,7 @@ questions, or numbers, and in order to explore and make sense of the data, we
 need to summarize that list in a meaningful way. This second step, which consists
 of summarizing the collected data, is called **exploratory data analysis.**
 
-![image](../img/big_picture3.png)
+<img src="img/big_picture3.png" />
 
 Now we've obtained the sample results and summarized them, but we are not done.
 Remember that our goal is to study the population, so what we want is to be able
@@ -67,12 +67,14 @@ this difference, we use **probability.**
 In essence, probability is the "machinery" that allows us to draw conclusions
 about the population based on the data collected about the sample.
 
-![image](../img/big_picture4.png)
+<img src="img/big_picture4.png" />
+
 
 Finally, we can use what we've discovered about our sample to draw conclusions
 about our population. We call this final step in the process **inference.**
 
-![image](../img/big_picture5.png)
+<img src="img/big_picture5.png" />
+
 
 This is the **Big Picture of statistics.**
 
@@ -95,7 +97,8 @@ that the percentage of those who favor the death penalty in the population is wi
 
 The following figure summarizes the example:
 
-![image](../img/big_picture6.png)
+<img src="img/big_picture6.png" />
+
 
 ## Course Structure
 
@@ -106,7 +109,8 @@ process of statistics), continue to discuss producing data, then proceed to prob
 so that at the end we’ll be able to discuss inference. The following figure summarizes
 the structure of the course.
 
-![image](../img/big_picture7.png)
+<img src="img/big_picture7.png" />
+
 
 As you’ll see, the Big Picture is the basis upon which the entire course is built,
 both conceptually and structurally. We will refer to it often, and having it in mind
